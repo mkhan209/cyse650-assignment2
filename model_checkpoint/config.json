@@ -1,0 +1,6 @@
+{
+  "winning_model": "logistic_regression",
+  "public_test_accuracy": 0.715,
+  "seed": 42,
+  "decision_threshold": 0.5
+}
